@@ -4,4 +4,4 @@ This sample provides all steps to create a new Azure Search Index with Cognitive
 
 The prerequisite is an MS Azure Subscription account.
 
-The sample also shows how to add a Semantic configuration that allows you to perform a Semantic Search to your engine. 
+The sample also shows how to add a Semantic configuration that allows you to perform a Semantic Search. 

@@ -4,8 +4,8 @@ This sample provides all steps to create a new seach index with Cognitive Search
 
 The prerequisite is a Microsoft Azure Subscription account.
 
-- **main-create-azsearch-index-allsteps.ipynb** - covers the steps of creating your first Microsoft Cognitive Search Index
-- **additional-create-index-schema.ipynb** - helps you create an index schema based on your JSON
+- **main-create-azsearch-index-allsteps.ipynb** covers the steps of creating your first Microsoft Cognitive Search Index
+- **additional-create-index-schema.ipynb** helps you create an index schema based on your JSON
 
 The sample also shows how to add a semantic configuration that allows you to perform a semantic search. 
 
